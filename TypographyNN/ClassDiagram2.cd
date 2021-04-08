@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="TypographyNN.AuthorizationForm" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAACAAABAAAACAAAACgIAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>AuthorizationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.EditForm" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAABABCAAAAQBAACAAAACAARBAgAAAEACggIEAEA=</HashCode>
+      <FileName>EditForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.FinishedProductsStorekeeperForm" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>+x/AoIQYgGaHVhxiAAHyMIADmYOBEwQAx3CAjQhAEaA=</HashCode>
+      <FileName>FinishedProductsStorekeeperForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.ProductionManagerForm" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>21qAgAQYkGKHRDRiAgDiAAADEQvJCzQAwyCgnQhAkWE=</HashCode>
+      <FileName>ProductionManagerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEQAAAEEAAAAAAAAACABAACAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.RegistrationForm" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQEAAAAACAAABAACACAAAACAIAABAAAAQEAAAAgAAA=</HashCode>
+      <FileName>RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.SpecialistInWorkingWithCustomersForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>+0/AsJA8gmLHD14/XAXSEIALnIqjyhwI93CpHRx5ceI=</HashCode>
+      <FileName>SpecialistInWorkingWithCustomersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.SqlC" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAEAAAAAACAAAAAAACAAAA=</HashCode>
+      <FileName>SqlС.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.WarehouseAndMaterialsManagerForm" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AVAAgAQQgigBQBBSRATgAAAKERsAAwAAwQAIiQgAQCA=</HashCode>
+      <FileName>WarehouseAndMaterialsManagerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypographyNN.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TypographyNN.FileDialogResults" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAiAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
